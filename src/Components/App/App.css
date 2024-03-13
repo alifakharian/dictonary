@@ -1,0 +1,17 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,200;0,400;0,600;0,800;1,300&display=swap");
+/* @import url("https://fonts.googleapis.com/css2?family=Pacifico&display=swap"); */
+.main {
+  background-image: url("./img/1.jpg");
+  padding-bottom: 85.9vh;
+  margin: 0 auto !important;
+}
+.information {
+  background-color: rgba(64, 70, 95, 0.816);
+}
+@font-face {
+  font-family: title;
+  src: url(./Butler_Regular.otf);
+}
+.title {
+  font-family: title;
+}
