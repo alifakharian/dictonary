@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/dictonary/static/css/main.53f7bddd.css",
-    "main.js": "/dictonary/static/js/main.d350fe38.js",
+    "main.js": "/dictonary/static/js/main.fe65a014.js",
     "static/media/1.jpg": "/dictonary/static/media/1.053562e015b762360e35.jpg",
     "static/media/Butler_Regular.otf": "/dictonary/static/media/Butler_Regular.b85860dbaabcf35bba43.otf",
     "index.html": "/dictonary/index.html",
     "main.53f7bddd.css.map": "/dictonary/static/css/main.53f7bddd.css.map",
-    "main.d350fe38.js.map": "/dictonary/static/js/main.d350fe38.js.map"
+    "main.fe65a014.js.map": "/dictonary/static/js/main.fe65a014.js.map"
   },
   "entrypoints": [
     "static/css/main.53f7bddd.css",
-    "static/js/main.d350fe38.js"
+    "static/js/main.fe65a014.js"
   ]
 }
